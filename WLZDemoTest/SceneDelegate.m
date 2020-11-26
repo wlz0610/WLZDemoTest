@@ -1,9 +1,8 @@
 //
 //  SceneDelegate.m
-//  hhhhh
+//  WLZDemoTest
 //
-//  Created by 王丽珍 on 2020/11/23.
-//  Copyright © 2020 王丽珍. All rights reserved.
+//  Created by 王丽珍 on 2020/11/26.
 //
 
 #import "SceneDelegate.h"
@@ -26,7 +25,7 @@
     // Called as the scene is being released by the system.
     // This occurs shortly after the scene enters the background, or when its session is discarded.
     // Release any resources associated with this scene that can be re-created the next time the scene connects.
-    // The scene may re-connect later, as its session was not neccessarily discarded (see `application:didDiscardSceneSessions` instead).
+    // The scene may re-connect later, as its session was not necessarily discarded (see `application:didDiscardSceneSessions` instead).
 }
 
 

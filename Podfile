@@ -1,8 +1,9 @@
- platform :ios, '10.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
  
-target 'hhhhh' do
+target 'WLZDemoTest' do
 
 pod 'WLZSDKTest1'
-
 
 end 

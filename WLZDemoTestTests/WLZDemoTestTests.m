@@ -1,18 +1,17 @@
 //
-//  hhhhhTests.m
-//  hhhhhTests
+//  WLZDemoTestTests.m
+//  WLZDemoTestTests
 //
-//  Created by 王丽珍 on 2020/11/23.
-//  Copyright © 2020 王丽珍. All rights reserved.
+//  Created by 王丽珍 on 2020/11/26.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface hhhhhTests : XCTestCase
+@interface WLZDemoTestTests : XCTestCase
 
 @end
 
-@implementation hhhhhTests
+@implementation WLZDemoTestTests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.

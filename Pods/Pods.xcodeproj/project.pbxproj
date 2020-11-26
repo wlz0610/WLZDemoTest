@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7A02A9EF0D8C9FAB268A7BA8527EEA77 /* Pods-hhhhh-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 48977D1D97B2534E63B00AA79BCDD023 /* Pods-hhhhh-dummy.m */; };
+		794E0DE4D05355B397E49A05707648A9 /* Pods-WLZDemoTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A30D0AE7C22175B819B03A18E6807B3B /* Pods-WLZDemoTest-dummy.m */; };
 		80199755B0CE0F79DD3F3EB258C5A2BC /* TestView.m in Sources */ = {isa = PBXBuildFile; fileRef = E489DD589ED57D954E234303E390D22F /* TestView.m */; };
 		87E64D8409CFF0423BA50246652312D0 /* WLZSDKTest1-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B3693116E63619A85E8086B94F9C48F0 /* WLZSDKTest1-dummy.m */; };
 		9AEA331B32F9D5C9F621E64B0F756318 /* TestView.h in Headers */ = {isa = PBXBuildFile; fileRef = 34B6AA87D8058368F62B61991EFAA1AF /* TestView.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		785AE40A491FFB7690C67F265FF35AA4 /* PBXContainerItemProxy */ = {
+		CA20BB639221863FC84F95FF5A1D5859 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -24,24 +24,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		019F2D5022B073249BF509148FD74496 /* Pods-hhhhh.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hhhhh.debug.xcconfig"; sourceTree = "<group>"; };
+		0828AFFF6750220E9C20FB2BBACFC5F8 /* Pods-WLZDemoTest-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WLZDemoTest-acknowledgements.markdown"; sourceTree = "<group>"; };
 		1F3782E38C342DAE725D93021F549635 /* libWLZSDKTest1.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWLZSDKTest1.a; path = libWLZSDKTest1.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F8699A74FAC5BAE14584E2853B1A856 /* libPods-hhhhh.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-hhhhh.a"; path = "libPods-hhhhh.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		31750D66E085514D3796DAAB95FFC614 /* Pods-hhhhh-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-hhhhh-acknowledgements.markdown"; sourceTree = "<group>"; };
 		34B6AA87D8058368F62B61991EFAA1AF /* TestView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TestView.h; path = WLZSDKTest1/Main/TestView.h; sourceTree = "<group>"; };
-		48977D1D97B2534E63B00AA79BCDD023 /* Pods-hhhhh-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-hhhhh-dummy.m"; sourceTree = "<group>"; };
-		503897AEDE398A394C42C079B3E4892F /* Pods-hhhhh-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-hhhhh-acknowledgements.plist"; sourceTree = "<group>"; };
-		67E84787F967AB45C05668C1CB95F726 /* Pods-hhhhh.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hhhhh.release.xcconfig"; sourceTree = "<group>"; };
+		4099C432ABA1A9816E8D5C5AE43BDD35 /* libPods-WLZDemoTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-WLZDemoTest.a"; path = "libPods-WLZDemoTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F32D574FB9F2AE41858FE59677DB83F /* Pods-WLZDemoTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WLZDemoTest.debug.xcconfig"; sourceTree = "<group>"; };
 		70D7EF71DAC30F9A005A0C3263ADE18B /* WLZSDKTest1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WLZSDKTest1.debug.xcconfig; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A30D0AE7C22175B819B03A18E6807B3B /* Pods-WLZDemoTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WLZDemoTest-dummy.m"; sourceTree = "<group>"; };
 		B3693116E63619A85E8086B94F9C48F0 /* WLZSDKTest1-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WLZSDKTest1-dummy.m"; sourceTree = "<group>"; };
+		CA767910F2F42FD0F26136D1DDAEDFF0 /* Pods-WLZDemoTest-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WLZDemoTest-acknowledgements.plist"; sourceTree = "<group>"; };
+		D12F8E27B901D767D31F9E9EA8B1BCCA /* Pods-WLZDemoTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WLZDemoTest.release.xcconfig"; sourceTree = "<group>"; };
 		DD64C352269E47943CA5C0196C0C4D02 /* WLZSDKTest1-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WLZSDKTest1-prefix.pch"; sourceTree = "<group>"; };
 		E489DD589ED57D954E234303E390D22F /* TestView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TestView.m; path = WLZSDKTest1/Main/TestView.m; sourceTree = "<group>"; };
 		FA202A186300F0AE0200AFDA449EB096 /* WLZSDKTest1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WLZSDKTest1.release.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4053CBAFE8BD4E04990D359220CDF9C1 /* Frameworks */ = {
+		9F17C2D1CDAAD4ED0CCFA3B8DD7B3151 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -58,19 +58,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		32F20378B3692BCE352818947425396A /* Pods-hhhhh */ = {
-			isa = PBXGroup;
-			children = (
-				31750D66E085514D3796DAAB95FFC614 /* Pods-hhhhh-acknowledgements.markdown */,
-				503897AEDE398A394C42C079B3E4892F /* Pods-hhhhh-acknowledgements.plist */,
-				48977D1D97B2534E63B00AA79BCDD023 /* Pods-hhhhh-dummy.m */,
-				019F2D5022B073249BF509148FD74496 /* Pods-hhhhh.debug.xcconfig */,
-				67E84787F967AB45C05668C1CB95F726 /* Pods-hhhhh.release.xcconfig */,
-			);
-			name = "Pods-hhhhh";
-			path = "Target Support Files/Pods-hhhhh";
-			sourceTree = "<group>";
-		};
 		347201A85CF09FD7070A59CDBBC398C9 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -91,14 +78,6 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		583AB81E5F92BBC4B9FC1F2BE12A77CF /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				32F20378B3692BCE352818947425396A /* Pods-hhhhh */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
 		7E4A133C9993F50777105CCDA4F45CB3 /* WLZSDKTest1 */ = {
 			isa = PBXGroup;
 			children = (
@@ -110,13 +89,17 @@
 			path = WLZSDKTest1;
 			sourceTree = "<group>";
 		};
-		C320997BC3EADFC149E54E9250776874 /* Products */ = {
+		CC8ED159BFD2CED8192DD1A4BFD9AE06 /* Pods-WLZDemoTest */ = {
 			isa = PBXGroup;
 			children = (
-				2F8699A74FAC5BAE14584E2853B1A856 /* libPods-hhhhh.a */,
-				1F3782E38C342DAE725D93021F549635 /* libWLZSDKTest1.a */,
+				0828AFFF6750220E9C20FB2BBACFC5F8 /* Pods-WLZDemoTest-acknowledgements.markdown */,
+				CA767910F2F42FD0F26136D1DDAEDFF0 /* Pods-WLZDemoTest-acknowledgements.plist */,
+				A30D0AE7C22175B819B03A18E6807B3B /* Pods-WLZDemoTest-dummy.m */,
+				6F32D574FB9F2AE41858FE59677DB83F /* Pods-WLZDemoTest.debug.xcconfig */,
+				D12F8E27B901D767D31F9E9EA8B1BCCA /* Pods-WLZDemoTest.release.xcconfig */,
 			);
-			name = Products;
+			name = "Pods-WLZDemoTest";
+			path = "Target Support Files/Pods-WLZDemoTest";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
@@ -125,9 +108,18 @@
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				D89477F20FB1DE18A04690586D7808C4 /* Frameworks */,
 				38D1243BDC187122F3028FF8A21F8C66 /* Pods */,
-				C320997BC3EADFC149E54E9250776874 /* Products */,
-				583AB81E5F92BBC4B9FC1F2BE12A77CF /* Targets Support Files */,
+				CF707282CBED3240D6876F8C40C9AE0D /* Products */,
+				DD1EBCFB9A88E4ADDB074CAB90F89C45 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		CF707282CBED3240D6876F8C40C9AE0D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4099C432ABA1A9816E8D5C5AE43BDD35 /* libPods-WLZDemoTest.a */,
+				1F3782E38C342DAE725D93021F549635 /* libWLZSDKTest1.a */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		D89477F20FB1DE18A04690586D7808C4 /* Frameworks */ = {
@@ -135,6 +127,14 @@
 			children = (
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DD1EBCFB9A88E4ADDB074CAB90F89C45 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				CC8ED159BFD2CED8192DD1A4BFD9AE06 /* Pods-WLZDemoTest */,
+			);
+			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -148,7 +148,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D6C737A27630AB8D709446711F97DEC /* Headers */ = {
+		DA3B619882E10A7E582842BF801E71DC /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -158,6 +158,24 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		01728D330E554A19108E3E82832AAB81 /* Pods-WLZDemoTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D443E3ADCF727A59B7F082EAB76CD9B1 /* Build configuration list for PBXNativeTarget "Pods-WLZDemoTest" */;
+			buildPhases = (
+				DA3B619882E10A7E582842BF801E71DC /* Headers */,
+				7ECB8582F8171B8DEF49F8FAD41D574E /* Sources */,
+				9F17C2D1CDAAD4ED0CCFA3B8DD7B3151 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B565B1E90736234F8BDBDB318C5A5220 /* PBXTargetDependency */,
+			);
+			name = "Pods-WLZDemoTest";
+			productName = "Pods-WLZDemoTest";
+			productReference = 4099C432ABA1A9816E8D5C5AE43BDD35 /* libPods-WLZDemoTest.a */;
+			productType = "com.apple.product-type.library.static";
+		};
 		BEDE33F8B0EA3ECF228127C8136EE89B /* WLZSDKTest1 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = C43A97F04DD6983D3516F273DC4B3B37 /* Build configuration list for PBXNativeTarget "WLZSDKTest1" */;
@@ -173,24 +191,6 @@
 			name = WLZSDKTest1;
 			productName = WLZSDKTest1;
 			productReference = 1F3782E38C342DAE725D93021F549635 /* libWLZSDKTest1.a */;
-			productType = "com.apple.product-type.library.static";
-		};
-		DA7BE14BDF7089133AB0D6EC3B9F3036 /* Pods-hhhhh */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 298B4538DC3FCC2A0E45CC5284ABAC8B /* Build configuration list for PBXNativeTarget "Pods-hhhhh" */;
-			buildPhases = (
-				4D6C737A27630AB8D709446711F97DEC /* Headers */,
-				3A4F1DBFE169715845EB884E57715B9C /* Sources */,
-				4053CBAFE8BD4E04990D359220CDF9C1 /* Frameworks */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				23064563C9ECFB3E2F8AA8BC82325D6A /* PBXTargetDependency */,
-			);
-			name = "Pods-hhhhh";
-			productName = "Pods-hhhhh";
-			productReference = 2F8699A74FAC5BAE14584E2853B1A856 /* libPods-hhhhh.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -211,22 +211,22 @@
 				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = C320997BC3EADFC149E54E9250776874 /* Products */;
+			productRefGroup = CF707282CBED3240D6876F8C40C9AE0D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DA7BE14BDF7089133AB0D6EC3B9F3036 /* Pods-hhhhh */,
+				01728D330E554A19108E3E82832AAB81 /* Pods-WLZDemoTest */,
 				BEDE33F8B0EA3ECF228127C8136EE89B /* WLZSDKTest1 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3A4F1DBFE169715845EB884E57715B9C /* Sources */ = {
+		7ECB8582F8171B8DEF49F8FAD41D574E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A02A9EF0D8C9FAB268A7BA8527EEA77 /* Pods-hhhhh-dummy.m in Sources */,
+				794E0DE4D05355B397E49A05707648A9 /* Pods-WLZDemoTest-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,11 +242,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		23064563C9ECFB3E2F8AA8BC82325D6A /* PBXTargetDependency */ = {
+		B565B1E90736234F8BDBDB318C5A5220 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = WLZSDKTest1;
 			target = BEDE33F8B0EA3ECF228127C8136EE89B /* WLZSDKTest1 */;
-			targetProxy = 785AE40A491FFB7690C67F265FF35AA4 /* PBXContainerItemProxy */;
+			targetProxy = CA20BB639221863FC84F95FF5A1D5859 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -275,9 +275,31 @@
 			};
 			name = Debug;
 		};
-		1C6EE2F625A668923EF1D7FA358997B9 /* Release */ = {
+		05468254921AF58CD94E8F0837E54692 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 67E84787F967AB45C05668C1CB95F726 /* Pods-hhhhh.release.xcconfig */;
+			baseConfigurationReference = 6F32D574FB9F2AE41858FE59677DB83F /* Pods-WLZDemoTest.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		157E7D1A2E7A2191F97B0F9CF240D30B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D12F8E27B901D767D31F9E9EA8B1BCCA /* Pods-WLZDemoTest.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -384,28 +406,6 @@
 			};
 			name = Release;
 		};
-		9E2887A202EB0CCC4F20CFE7F491F8C3 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 019F2D5022B073249BF509148FD74496 /* Pods-hhhhh.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				MACH_O_TYPE = staticlib;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
 		B1B259C5FB7465EF9C71163827046E70 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -474,15 +474,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		298B4538DC3FCC2A0E45CC5284ABAC8B /* Build configuration list for PBXNativeTarget "Pods-hhhhh" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				9E2887A202EB0CCC4F20CFE7F491F8C3 /* Debug */,
-				1C6EE2F625A668923EF1D7FA358997B9 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -497,6 +488,15 @@
 			buildConfigurations = (
 				03B357F6B465B337C726BF2947D3B2E8 /* Debug */,
 				3B4BEEF193A9C961647ECFFE72748DB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D443E3ADCF727A59B7F082EAB76CD9B1 /* Build configuration list for PBXNativeTarget "Pods-WLZDemoTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				05468254921AF58CD94E8F0837E54692 /* Debug */,
+				157E7D1A2E7A2191F97B0F9CF240D30B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
