@@ -158,7 +158,6 @@
 				FAF2AF237E8398F6321BED77 /* Pods-WLZDemoTest.debug.xcconfig */,
 				73EEF51E072F9701F5135B96 /* Pods-WLZDemoTest.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -503,7 +502,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = YF.WLZDemoTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -523,7 +522,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = YF.WLZDemoTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

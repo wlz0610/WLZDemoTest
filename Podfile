@@ -1,10 +1,11 @@
+#source 'https://github.com/CocoaPods/Specs.git'
 
-source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '10.0'
- 
+
 target 'WLZDemoTest' do
 
-pod 'WLZSDKTest1'
-pod 'YYModel'
-pod 'Masonry'
+#pod 'WLZSDKTest1'
+#pod 'YYModel'
+#pod 'Masonry'
+
 end 
