@@ -5,5 +5,6 @@ platform :ios, '10.0'
 target 'WLZDemoTest' do
 
 pod 'WLZSDKTest1'
-
+pod 'YYModel'
+pod 'Masonry'
 end 

@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "WLZDemoTest"
-  spec.version      = "1.01"
+  spec.version      = "1.0.3"
   spec.summary      = "A short test demo of WLZDemoTest."
 
   spec.description  = <<-DESC
@@ -23,8 +23,12 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/wlz0610/WLZDemoTest.git", :tag => "#{spec.version}" }
 
 
-  spec.source_files  = "hhhhh/*.{h,m}"
+  spec.source_files  = "WLZDemoTest/*.{h,m}"
+  
+  #spec.framework = "WLZSDKTest1"
 
-  spec.dependency "WLZSDKTest1", "~> 1.0"
+  #spec.dependency "WLZSDKTest1"
+  spec.dependency "Masonry"
+  spec.dependency "YYModel"
 
 end
